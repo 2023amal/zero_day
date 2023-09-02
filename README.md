@@ -1,1 +1,1 @@
-my readme for this directory zero_day
+my readme for directory zero_day
